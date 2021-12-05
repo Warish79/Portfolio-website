@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Warish79/Portfolio-website/static/css/main.097036c0.chunk.css",
+    "main.js": "/Warish79/Portfolio-website/static/js/main.660f7046.chunk.js",
+    "main.js.map": "/Warish79/Portfolio-website/static/js/main.660f7046.chunk.js.map",
+    "runtime-main.js": "/Warish79/Portfolio-website/static/js/runtime-main.ad5e0031.js",
+    "runtime-main.js.map": "/Warish79/Portfolio-website/static/js/runtime-main.ad5e0031.js.map",
+    "static/js/2.d969c5ea.chunk.js": "/Warish79/Portfolio-website/static/js/2.d969c5ea.chunk.js",
+    "static/js/2.d969c5ea.chunk.js.map": "/Warish79/Portfolio-website/static/js/2.d969c5ea.chunk.js.map",
+    "index.html": "/Warish79/Portfolio-website/index.html",
+    "static/css/main.097036c0.chunk.css.map": "/Warish79/Portfolio-website/static/css/main.097036c0.chunk.css.map",
+    "static/js/2.d969c5ea.chunk.js.LICENSE.txt": "/Warish79/Portfolio-website/static/js/2.d969c5ea.chunk.js.LICENSE.txt",
+    "static/media/portfolio dp.12acaf6e.png": "/Warish79/Portfolio-website/static/media/portfolio dp.12acaf6e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad5e0031.js",
+    "static/js/2.d969c5ea.chunk.js",
+    "static/css/main.097036c0.chunk.css",
+    "static/js/main.660f7046.chunk.js"
+  ]
+}
